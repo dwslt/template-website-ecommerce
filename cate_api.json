@@ -1,0 +1,110 @@
+[ {
+    "id" : 1,
+    "name" : "Cà phê",
+    "description" : "Cà Phê",
+    "imageUrl" : "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/menufrontend/TX17lTus7rz4Q1iFMROSTMLEcZf4ZH3jPj1CBVIG.png",
+    "imageBase64" : ""
+  }, {
+    "id" : 2,
+    "name" : "Thức uống đá xay",
+    "description" : "Cà Phê Đá Xay",
+    "imageUrl" : "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/menufrontend/wf55DdU0owjWKP0Ra4So8AJlI5UN0C9bdn1DOTHJ.png",
+    "imageBase64" : ""
+  }, {
+    "id" : 3,
+    "name" : "Socola",
+    "description" : "Socola",
+    "imageUrl" : "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/menufrontend/qb3puM9LBmCFnLOw0gmkYYOdGz8N9AUV8nQDqf1h.png",
+    "imageBase64" : ""
+  }, {
+    "id" : 4,
+    "name" : "Macchiato",
+    "description" : "Trà",
+    "imageUrl" : "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/menufrontend/DGzoB29E4dP5NyYzLdN03rK6z3KSs2mFOaMzYW1r.png",
+    "imageBase64" : ""
+  }, {
+    "id" : 5,
+    "name" : "Trà trái cây",
+    "description" : "Mockail",
+    "imageUrl" : "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/menufrontend/WQAwFYjEBiW13mdM2Tmd1yq6kr4IhQIcHwVLCUxO.png",
+    "imageBase64" : ""
+  }, {
+    "id" : 6,
+    "name" : "Thức uống trái cây",
+    "description" : "Smoothies",
+    "imageUrl" : "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/menufrontend/d6Y3mES4ngkXjMMoF7kkqTOmT35HPGzfNmFfbM8C.png",
+    "imageBase64" : ""
+  }, {
+    "id" : 7,
+    "name" : "Thức ăn nhẹ",
+    "description" : "Snack",
+    "imageUrl" : "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/menufrontend/awgzPky5HnTyCc2dplRQVJu9G9JOKCDlyooqzFUi.png",
+    "imageBase64" : ""
+  }, {
+    "id" : 8,
+    "name" : "Nước uống đóng chai",
+    "description" : "Nước uống đóng chai",
+    "imageUrl" : "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/menufrontend/awgzPky5HnTyCc2dplRQVJu9G9JOKCDlyooqzFUi.png",
+    "imageBase64" : ""
+  }, {
+    "id" : 9,
+    "name" : "Món được yêu thích",
+    "description" : "Món được yêu thích",
+    "imageUrl" : "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/menufrontend/itfvp55SKSoUVA0fZUAt2cZIQv4j3Oh9wShz4qNY.png",
+    "imageBase64" : ""
+  }, {
+    "id" : 10,
+    "name" : "Cà phê pha máy",
+    "description" : "Cà phê pha máy",
+    "imageUrl" : "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/menufrontend/yovWHtDRGC1gyW07akls4axAtvgL2sJRFmfJCZRA.png",
+    "imageBase64" : ""
+  }, {
+    "id" : 11,
+    "name" : "Bánh ngọt",
+    "description" : "Bánh Ngọt",
+    "imageUrl" : "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/menufrontend/yovWHtDRGC1gyW07akls4axAtvgL2sJRFmfJCZRA.png",
+    "imageBase64" : ""
+  }, {
+    "id" : 12,
+    "name" : "Bánh mặn",
+    "description" : "Savoury",
+    "imageUrl" : "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/menufrontend/Acf7CizeUgebmzZ8ltTSNzS22fn872Mxv3hbFola.png",
+    "imageBase64" : ""
+  }, {
+    "id" : 14,
+    "name" : "Vật phẩm",
+    "description" : "Item",
+    "imageUrl" : "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/menufrontend/koK47PGr7o8pMyP5BYEvcm9s0vGnQAJPXOvAo9Vj.png",
+    "imageBase64" : ""
+  }, {
+    "id" : 15,
+    "name" : "Choco-Matcha",
+    "description" : "Choco-Matcha",
+    "imageUrl" : "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/menufrontend/G7tiXVQTqgTUvpfBWYqeOVjz2FGJCS1cr1l9bQTM.png",
+    "imageBase64" : ""
+  }, {
+    "id" : 16,
+    "name" : "Trung thu",
+    "description" : "Trung thu",
+    "imageUrl" : "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/menufrontend/GiFO1R4O2TAYoj99o2MOX9TNRc8KAhGVJZjmbqaE.png",
+    "imageBase64" : ""
+  }, {
+    "id" : 17,
+    "name" : "Món gợi ý",
+    "description" : "Món gợi ý",
+    "imageUrl" : "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/menufrontend/awgzPky5HnTyCc2dplRQVJu9G9JOKCDlyooqzFUi.png",
+    "imageBase64" : ""
+  }, {
+    "id" : 18,
+    "name" : "Cà phê gói",
+    "description" : "Cà phê gói",
+    "imageUrl" : "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/menufrontend/TX17lTus7rz4Q1iFMROSTMLEcZf4ZH3jPj1CBVIG.png",
+    "imageBase64" : ""
+  }, {
+    "id" : 19,
+    "name" : "Gói Subsciption",
+    "description" : "Gói Subsciption",
+    "imageUrl" : "https://tchmobileapp.s3.ap-southeast-1.amazonaws.com/menufrontend/TX17lTus7rz4Q1iFMROSTMLEcZf4ZH3jPj1CBVIG.png",
+    "imageBase64" : ""
+  } ]
+  
